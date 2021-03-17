@@ -45,13 +45,20 @@ h1 {
 }
 
 #img {
-    width: 69%;
+    width: 90%;
     height: 5%;
     position: relative;
     align-items: center;
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+#titleBox {
+    color: rgba(10, 10, 10, 0.884);
+    text-align: center;
+    font-size: 18px;
+    border-radius: 5px;
 }
 
 #infoBox {
@@ -61,14 +68,8 @@ h1 {
 }
 
 #counter {
-    font-size: 18px;
+    font-size: 28px;
     color: rgb(7, 7, 7);
-}
-
-#titleBox {
-    color: rgba(10, 10, 10, 0.884);
-    text-align: center;
-    font-size: 16px;
 }
 
 #footer {
@@ -77,9 +78,6 @@ h1 {
     flex-direction: column;
     align-items: center;
     width: 100%;
-    padding: 10px 10px;
-    margin-top: 10px;
+    padding: 9px 9px;
+    margin-top: 9px;
 }
-
-© 2021 GitHub,
-Inc. Terms Privacy Security Status Docs Contact GitHub Pricing API Training Blog.

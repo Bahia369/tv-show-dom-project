@@ -1,8 +1,8 @@
 const mainContent = document.getElementById("mainContent");
-const navAll = document.getElementById("navforAll");
+const navAll = document.getElementById("navAll");
 const searchShows = document.getElementById("searchSh");
-const showSelect = document.getElementById("sellShow");
-const epiSelect = document.getElementById("sellEpisode");
+const showSelect = document.getElementById("selShow");
+const epiSelect = document.getElementById("selEpisode");
 const input = document.getElementById("searchEp");
 const counter = document.getElementById("counter");
 let showDrop;
